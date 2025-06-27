@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This example project divides the clock 8 times.
 
 ## How to test
 
-Explain how to use your project
+Configure the clock and see it divided by 8 on OUT7.
 
 ## External hardware
 
